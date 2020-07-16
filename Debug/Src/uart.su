@@ -1,0 +1,2 @@
+uart.c:28:15:uart_init	40	static
+uart.c:44:15:uart_write	8	static

@@ -1,0 +1,7 @@
+mp3_player.c:54:21:getDataFromFile	16	static
+mp3_player.c:66:5:playMP3Song	56	static
+mp3_player.c:83:5:stopMP3Song	8	static
+mp3_player.c:90:6:playMP3Task	8	static
+mp3_player.c:109:6:BSP_AUDIO_OUT_TransferComplete_CallBack	8	static
+mp3_player.c:114:6:BSP_AUDIO_OUT_HalfTransfer_CallBack	0	static
+mp3_player.c:119:6:BSP_AUDIO_OUT_Error_CallBack	0	static
